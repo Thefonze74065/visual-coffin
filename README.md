@@ -1,4 +1,4 @@
-version: 1.1.0
+version: 1.1.1
 
 author - Egorik (u/Someday_itwillbegood (reddit); @egorik22_8 (twitter) ; @Egorik_cretv (youtube) ).
 
